@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+}
+
+form {
+    padding: 40px;
+    width: 300px;
+    margin: 50px 150px;
+}
+
+.image {
+    position: absolute;
+    width: 50%;
+    height: 100vh;
+    top: 0;
+    right: 0; 
+}
+
+#forgot {
+    font-size: 13px;
+}
+
+.button1 {
+    padding: 8px;
+    padding-left: 20px;
+    border: 1px solid #DDDDDD;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: 13.5px;
+}
+
+.button2 {
+    padding: 8px;
+    padding-left: 20px;
+    border: 1px solid #DDDDDD;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: 13.5px;
+}
+
+.login_submit {
+    text-align: center;
+}
+
+.not_sign {
+    text-align: center;
+    font-size: 13px;
+}
+
+.log_pass {
+    padding: 7px;
+    margin-bottom: 20px;
+    border: 1px solid #DDDDDD;
+    border-radius: 13px;
+    width: 100%;
+    font-size: 15px;
+}
+
+#login {
+    background: rgb(2, 102, 2);
+    width: 100%;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.fa {
+    position: absolute;
+    bottom: 155px;
+}
